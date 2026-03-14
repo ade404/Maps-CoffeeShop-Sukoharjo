@@ -1,0 +1,52 @@
+[
+    {
+        "nama": "Tuku Kopi Solo",
+        "alamat": "Jl. Dr. Radjiman No. 396, Laweyan, Surakarta",
+        "jam_buka": "07:00 - 22:00",
+        "lat": -7.5629,
+        "lng": 110.8070,
+        "logo": "images/tuku_logo.jpg",
+        "menu": "images/tuku_menu.jpg",
+        "instagram": "https://instagram.com/tokokopituku"
+    },
+    {
+        "nama": "Filosofi Kopi Solo",
+        "alamat": "Jl. Adi Sucipto No. 56, Surakarta",
+        "jam_buka": "08:00 - 23:00",
+        "lat": -7.5564,
+        "lng": 110.8241,
+        "logo": "images/filosofi_logo.jpg",
+        "menu": "images/filosofi_menu.jpg",
+        "instagram": "https://instagram.com/filosofikopi"
+    },
+    {
+        "nama": "Kopi Nako Solo",
+        "alamat": "Jl. Slamet Riyadi No. 232, Surakarta",
+        "jam_buka": "08:00 - 22:00",
+        "lat": -7.5673,
+        "lng": 110.8160,
+        "logo": "images/nako_logo.jpg",
+        "menu": "images/nako_menu.jpg",
+        "instagram": "https://instagram.com/kopinako"
+    },
+    {
+        "nama": "Cold 'N Brew Solo",
+        "alamat": "Jl. Hasanudin No. 10, Surakarta",
+        "jam_buka": "09:00 - 22:00",
+        "lat": -7.5609,
+        "lng": 110.8135,
+        "logo": "images/coldbrew_logo.jpg",
+        "menu": "images/coldbrew_menu.jpg",
+        "instagram": "https://instagram.com/coldnbrew"
+    },
+    {
+        "nama": "Kopi Titik Koma Solo",
+        "alamat": "Jl. Ronggowarsito No. 12, Surakarta",
+        "jam_buka": "07:30 - 22:30",
+        "lat": -7.5692,
+        "lng": 110.8281,
+        "logo": "images/titik_koma_logo.jpg",
+        "menu": "images/titik_koma_menu.jpg",
+        "instagram": "https://instagram.com/kopititikkoma"
+    }
+]
