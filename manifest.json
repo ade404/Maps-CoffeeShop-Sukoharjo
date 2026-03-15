@@ -1,0 +1,21 @@
+{
+  "name": "Solo Coffee-Dex",
+  "short_name": "CoffeeDex",
+  "description": "Misi mengoleksi coffee shop di Solo ala Pokemon Go",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffcb05",
+  "icons": [
+    {
+      "src": "images/data1.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "images/data1.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
